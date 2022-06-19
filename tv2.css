@@ -1,0 +1,53 @@
+html, body {
+    height: 100%;
+	max-width:100%;
+    max-height:100%;
+	margin: 0 0 0 0;
+	
+}
+
+
+.container {
+ min-width:100%;
+ min-height:100%;
+ max-width:100%;
+ max-height:100%;
+ 
+	
+}
+
+
+	
+
+.mainscreen {
+background: blue;
+display:block;
+height:1080px;
+width:75%
+background-repeat: none;
+float:left;
+
+	
+	
+}
+
+
+.sidebar {
+background: green;
+height:1238.50px;
+width:25%
+background-repeat: none;
+float:right;
+}
+
+
+
+.test{
+	background-color:red;
+	height:100px;
+	width:50px;
+	
+	
+}
+
+
